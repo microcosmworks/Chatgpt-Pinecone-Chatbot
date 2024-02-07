@@ -21,8 +21,9 @@ v18.9.1
 4. Please create a .env.local in root
 To run this app, you need the following:
 
-a. An [OpenAI](https://platform.openai.com/) API key
-b. [Pinecone](https://app.pinecone.io/) API Key
+   a. An [OpenAI](https://platform.openai.com/) API key
+
+   b. [Pinecone](https://app.pinecone.io/) API Key
 
 ```sh
 OPENAI_API_KEY=YOUR_OPENAI_API_KEY
