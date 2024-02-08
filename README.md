@@ -60,3 +60,6 @@ This is a basic starter project for building with the following tools and APIs:
 ### What we're building
 
 We are building an app that takes url, embeds them into vectors, stores them into Pinecone, and allows semantic searching of the data.
+
+### Demo video
+chatgpt-chatbot-website/demo-video/demo-video-pinecone-chatbot
